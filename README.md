@@ -1,2 +1,2 @@
-# class-register-documentation
-Документация к API сервера.
+# Документация к API class-register.
+
